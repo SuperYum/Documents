@@ -30,15 +30,6 @@ sglic start-trial wpf
 
 Here is a list for the short name for our components, which makes easier to type and remember in CLI.
 
-abbr.   |Full name
----     |---
-core    |MapKit Core
-wpf     |MapKit WPF
-winforms|MapKit WinForms
-webapi  |MapKit WebAPI
-core-dnc|MapKit Core for .NET Core
-webapi-dnc|MapKit WebAPI for ASP.NET Core
-
 <table class="table table-bordered">
     <thead>
         <tr>
