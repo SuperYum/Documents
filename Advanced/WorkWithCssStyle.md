@@ -135,17 +135,62 @@ The CSS is the primary part of this guide. It defines two very important informa
     
     - **Text declarations** can be applied on all geometries.
     
-|Name                   |Demo                   |Description|
-|-------------          |--------------------   |-----------|
-|font-size              |font-size:12px         |The size of text.|
-|font-color             |font-color:#000000     |The color of text.|
-|font-weight            |font-weight:bold       |The weight of font. Only `bold` is supported now.|
-|text-stroke            |text-stroke:1px        |The outline color of the text.|
-|text-stroke-thickness  |text-stroke-thickness:2px|The thickness of the outline.|
-|text-column            |text-column:name       |The data column name that is used to fetch data for labeling.|
-|text-align             |text-align:center      |The text alignment. It supports `upper-left` `upper-center` `upper-right` `center-right` `center` `center-left` `lower-left` `lower-center` `lower-right`.|
-|text-offset-x          |text-offset-x:0px      |The text horizontal offset.|
-|text-offset-y          |text-offset-y:0px      |The text vertical offset.|
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Demo</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>font-size</td>
+                <td>font-size:12px</td>
+                <td>The size of text.</td>
+            </tr>
+            <tr>
+                <td>font-color</td>
+                <td>font-color:#000000</td>
+                <td>The color of text.</td>
+            </tr>
+            <tr>
+                <td>font-weight</td>
+                <td>font-weight:bold</td>
+                <td>The weight of font. Only <code>bold</code> is supported now.</td>
+            </tr>
+            <tr>
+                <td>text-stroke</td>
+                <td>text-stroke:1px</td>
+                <td>The outline color of the text.</td>
+            </tr>
+            <tr>
+                <td>text-stroke-thickness</td>
+                <td>text-stroke-thickness:2px</td>
+                <td>The thickness of the outline.</td>
+            </tr>
+            <tr>
+                <td>text-column</td>
+                <td>text-column:name</td>
+                <td>The data column name that is used to fetch data for labeling.</td>
+            </tr>
+            <tr>
+                <td>text-align</td>
+                <td>text-align:center</td>
+                <td>The text alignment. It supports <code>upper-left</code> <code>upper-center</code> <code>upper-right</code> <code>center-right</code> <code>center</code> <code>center-left</code> <code>lower-left</code> <code>lower-center</code> <code>lower-right</code>.</td>
+            </tr>
+            <tr>
+                <td>text-offset-x</td>
+                <td>text-offset-x:0px</td>
+                <td>The text horizontal offset.</td>
+            </tr>
+            <tr>
+                <td>text-offset-y</td>
+                <td>text-offset-y:0px</td>
+                <td>The text vertical offset.</td>
+            </tr>
+        </tbody>
+    </table>
         
     > ### Color Reference: 
     > - HTML color: `#ff0000` 
