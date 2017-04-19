@@ -91,14 +91,47 @@ The CSS is the primary part of this guide. It defines two very important informa
 
     - **Point declarations** is only applied to point geometries. It contains:
     
-|Name           |Demo                           |Description|
-|-------------  |--------------------           |-----------|
-|symbol         |symbol:circle                  |Defines the symbol type for point geometries. It supports `Circle` `Cross` `Square` `Triangle` `Diamond` `Hexagon` `Pentagon` `Star`|
-|symbol-size    |symbol-size:30px               |Defines how large the symbol is. The default size is `0px`. Make sure it is set to a proper size if we want to make it visible.|
-|marker-file    |marker-file:url(../icon.png)   | The marker image file path.|
-|marker-width   |marker-width:20px              |The width of the marker image. It will resize image height by the width aspect ratio.|
-|marker-offset-x|marker-offset-x:0px            |The marker horizontal offset.|
-|marker-offset-y|marker-offset-y:0px            |The marker vertical offset.|
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Demo</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>symbol</td>
+                <td>symbol:circle</td>
+                <td>Defines the symbol type for point geometries. It supports <code>Circle</code> <code>Cross</code> <code>Square</code> <code>Triangle</code> <code>Diamond</code> <code>Hexagon</code> <code>Pentagon</code> <code>Star</code></td>
+            </tr>
+            <tr>
+                <td>symbol-size</td>
+                <td>symbol-size:30px</td>
+                <td>Defines how large the symbol is. The default size is <code>0px</code>. Make sure it is set to a proper size if we want to make it visible.</td>
+            </tr>
+            <tr>
+                <td>marker-file</td>
+                <td>marker-file:url(../icon.png)</td>
+                <td>The marker image file path.</td>
+            </tr>
+            <tr>
+                <td>marker-width</td>
+                <td>marker-width:20px</td>
+                <td>The width of the marker image. It will resize image height by the width aspect ratio.</td>
+            </tr>
+            <tr>
+                <td>marker-offset-x</td>
+                <td>marker-offset-x:0px</td>
+                <td>The marker horizontal offset.</td>
+            </tr>
+            <tr>
+                <td>marker-offset-y</td>
+                <td>marker-offset-y:0px</td>
+                <td>The marker vertical offset.</td>
+            </tr>
+        </tbody>
+    </table>
     
     - **Text declarations** can be applied on all geometries.
     
