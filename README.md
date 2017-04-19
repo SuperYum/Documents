@@ -22,14 +22,14 @@ This handbook contains the following contents.
 - Comming soon. Including Mobile (iOS, Android, Xamrin Forms), Web (Mvc) and .NET Core (Mvc).
     
 ## Choose a proper component for my project
-We have various products that covers Desktop, Web and .NET Core. This thread will give you a genernal idea to choose a proper product that fits for your current project. [Read this for detail](https://github.com/SlimGIS/Start-up-Handbook/blob/master/ComponentGuide.md).
+We have various products that covers Desktop, Web and .NET Core. This thread will give you a genernal idea to choose a proper product that fits for your current project. [Read this for detail](https://github.com/SlimGIS/Documents/blob/master/Getting%20started/ComponentCompare.md).
 
 ## Installation guide
-We provide two options for your installation: Installer and NuGet. You could choose either way for your project. [Read this for detail](https://github.com/SlimGIS/Start-up-Handbook/blob/master/InstallationGuide.md).
+We provide two options for your installation: Installer and NuGet. You could choose either way for your project. [Read this for detail](https://github.com/SlimGIS/Documents/blob/master/Getting%20started/Installation.md).
 
 ## Get API Reference
 - [Online API Reference](https://github.com/SlimGIS/MapKit-API-Docs/blob/gh-pages/README.md)
-- Offline API Reference (It is included in our installer, click [here](http://demo.slimgis.com/download-trial) to get the installer)
+- Offline API Reference (It is included in our installer, click [here](http://www.slimgis.com/download-trial) to get the installer)
  
 ## Start trail or activate a purchased license
 - Start trail wpf|winforms|webapi
@@ -42,7 +42,7 @@ We provide two options for your installation: Installer and NuGet. You could cho
 We have built samples that covers almost functions and all supported platforms. This thread will help you to build your own project. [Read this for detail](https://github.com/SlimGIS/Start-up-Handbook/blob/master/Samples.md).
 
 ## Get an update packages
-We can use nuget.org to get our latest packages. This thread will give you a genernal idea to choose a package that fits for your current project. [Read this for detail](https://github.com/SlimGIS/Start-up-Handbook/blob/master/Release-Archive-History.md).
+We can use nuget.org to get our latest packages. This thread will give you a genernal idea to choose a package that fits for your current project. [Read this for detail](https://github.com/SlimGIS/Documents/blob/master/Getting%20started/ReleaseHistory.md).
 
 ## Need recommendation and bug report
 - [dev@slimgis.com](mailto:dev@slimgis.com) for questions about development.
