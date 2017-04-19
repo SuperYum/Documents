@@ -1,1 +1,1 @@
-https://github.com/SlimGIS/QuickstartSampleForWinForms
+https://github.com/SlimGIS/Quickstart-WebAPI-DotNetCore
