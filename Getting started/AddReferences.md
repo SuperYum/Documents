@@ -14,7 +14,7 @@ We keep updating our stable build and preview build into NuGet.org so that devel
 
 To use NuGet, we don't need to download the installer nor download the assembly package manually. What we need to do is only open Visual Studio -> create a project -> right click on the _References_ folder -> select _Manage NuGet Packages..._ -> _NuGet View_ will add into the work area -> switch the tab to _Browse_ (sometimes, the default active tab is _Installed_) -> in the search box, type `sgmapkit` -> our packages will be in the result list.
 
-![nuget result](#)
+![nuget result](https://github.com/SlimGIS/Documents/raw/master/Images/nuget-package-search-result.png)
 
 With NuGet, you could easily add / remove / upgrade our packages in your project. It is pretty straight forward right? I really love this way :)
 
@@ -23,10 +23,15 @@ We prepared a easest way to setup a very simple map based app project on your ma
 
 Open Visual Studio -> click _Tools_ in the menu bar -> select _Extensions and Updates..._ -> select _Online_ node on the left side panel -> search `slimgis` and our project template will be in the result list.
 
-![online project template result](#)
+![online project template result](https://github.com/SlimGIS/Documents/raw/master/Images/online-project-template.png)
 
 Once it is installed, restart Visual Studio, then create a new project, our project template will be in the bottom of the installed project template.
 
-![installed project template](#)
+![installed project template](https://github.com/SlimGIS/Documents/raw/master/Images/proj-template-ready.png)
 
-Here we introduced several ways to add MapKit assemblies into your project. Hope it could simplify the process to kick start your project.
+Here we introduced several ways to add MapKit assemblies into your project. 
+- A normal way that developers are already familiar with
+- A fasion way that easier to manage the reference's adding/removing/updating
+- A pre-defined project template that to quickly kick starts your map app project
+
+Hope you like it. Any suggestion is welcome to send to dev@slimgis.com. 
