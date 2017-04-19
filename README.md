@@ -38,8 +38,12 @@ We provide two options for your installation: Installer and NuGet. You could cho
     - `sglic activate [wpf|winforms|webapi] -u [username] -p [password]` 
 - More command supports, [read this](#) 
 
-## Samples
-We have built samples that covers almost functions and all supported platforms. This thread will help you to build your own project. [Read this for detail](https://github.com/SlimGIS/Start-up-Handbook/blob/master/Samples.md).
+## Quickstart Samples
+We have built samples that covers almost functions and all supported platforms. This thread will help you to build your own project.
+- Quickstart Sample - WPF (available for [Windows](https://github.com/SlimGIS/QuickstartSampleForWPF))
+- Quickstart Sample - WinForms (available for [Windows](https://github.com/SlimGIS/QuickstartSampleForWinForms), [Linux](https://github.com/SlimGIS/QuickstartSampleForWinForms))
+- Quickstart Sample - WebAPI (available for [Windows](https://github.com/SlimGIS/QuickstartSampleForWebAPI))
+- Quickstart Sample - WebAPI with .NET Core (available for [Windows](https://github.com/SlimGIS/Quickstart-WebAPI-DotNetCore), [macOS](https://github.com/SlimGIS/Quickstart-WebAPI-DotNetCore-Multi-Platform), [Linux](https://github.com/SlimGIS/Quickstart-WebAPI-DotNetCore-Multi-Platform))
 
 ## Get an update packages
 We can use nuget.org to get our latest packages. This thread will give you a genernal idea to choose a package that fits for your current project. [Read this for detail](https://github.com/SlimGIS/Documents/blob/master/Getting%20started/ReleaseHistory.md).
