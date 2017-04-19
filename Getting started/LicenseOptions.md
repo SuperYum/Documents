@@ -39,6 +39,41 @@ webapi  |MapKit WebAPI
 core-dnc|MapKit Core for .NET Core
 webapi-dnc|MapKit WebAPI for ASP.NET Core
 
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>abbr.</th>
+            <th>Full name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>core</td>
+            <td>MapKit Core</td>
+        </tr>
+        <tr>
+            <td>wpf</td>
+            <td>MapKit WPF</td>
+        </tr>
+        <tr>
+            <td>winforms</td>
+            <td>MapKit WinForms</td>
+        </tr>
+        <tr>
+            <td>webapi</td>
+            <td>MapKit WebAPI</td>
+        </tr>
+        <tr>
+            <td>core-dnc</td>
+            <td>MapKit Core for .NET Core</td>
+        </tr>
+        <tr>
+            <td>webapi-dnc</td>
+            <td>MapKit WebAPI for ASP.NET Core</td>
+        </tr>
+    </tbody>
+</table>
+
 #### Full License
 *Full License* is a purchased license. Each *Full License* can only bind to one machine for single developer.
 With *Full License*, you could develop with full featured SlimGIS MapKit Component without any limits. The Full license is pepetual license. You could use it forever. The purchase of this license also comes with one year subscription, which means you are free to upgrade our component in one years. If you want to upgrade the next year, a new subscription must be purchased.
