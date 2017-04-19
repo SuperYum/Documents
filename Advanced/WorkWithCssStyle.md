@@ -91,7 +91,7 @@ The CSS is the primary part of this guide. It defines two very important informa
 
     - **Point declarations** is only applied to point geometries. It contains:
     
-    <table>
+    <table class="table table-bordered">
         <thead>
             <tr>
                 <th>Name</th>
@@ -135,7 +135,7 @@ The CSS is the primary part of this guide. It defines two very important informa
     
     - **Text declarations** can be applied on all geometries.
     
-    <table>
+    <table class="table table-bordered">
         <thead>
             <tr>
                 <th>Name</th>
